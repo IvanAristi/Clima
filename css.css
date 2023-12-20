@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url(./img/cieloenubldo.jpeg);
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  flex-wrap: wrap;
+}
+
+.resul{
+    left: 20px;
+}
+
+#btn{
+    right: 30px;
+}
+strong{
+    color: yellow;
+}
+p{
+    color: cornsilk;
+}
