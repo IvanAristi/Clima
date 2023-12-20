@@ -12,14 +12,14 @@ Visualiza información detallada, incluyendo temperatura, humedad, velocidad del
 
 En la página principal, utiliza el campo de búsqueda para ingresar el nombre de la ciudad o país que desees consultar.
 
-![consultar](img/consultaclima.png);
+![consultar](img/consultaclima.png)
 
 
 
  
  Podras visualizar en la parte derecha de tu busqueda, los resultados del clima de la ciudad o pais.
 
-![consultar](img/datosConsulta.png);
+![consultar](img/datosConsulta.png)
 
 
 
